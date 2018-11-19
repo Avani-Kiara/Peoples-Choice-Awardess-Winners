@@ -1,0 +1,59 @@
+img {
+    height: 350px;
+}
+.blue-on-hover:hover{
+    color: blue;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    color:teal;
+}
+h2 {
+    font-family: 'Pacifico', cursive;
+    color:#7417BF;
+}
+p {
+    font-family: 'Lobster', cursive;
+    color:white;
+}
+.red-on-hover:hover{
+    color:red;   
+}
+body{
+    background: url("https://www.artsfon.com/large/201802/158588.jpg") fixed center;   
+    text-align: center;
+}
+
+.gold{
+    color:gold;   
+}
+.maroon-on-hover:hover{
+    color:maroon;
+}
+.crimson-on-hover:hover{
+    color:crimson;
+}
+.blue-on-hover:hover{
+    color:#67CFC4;
+}
+.red-on-hover:hover{
+    color:#EB0537;
+}
+.grey-on-hover:hover{
+    color:#806067;
+}
+.sweet-on-hover{
+    color:#F2859F;
+}
+.challenger-on-hover{
+    color:#14389C;
+}
+.jeep{
+    color:white;
+} 
+
+
+
+
+
+
